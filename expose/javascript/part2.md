@@ -8,13 +8,13 @@ part2-question3:
     print 150, because the very last time it was when discountedPrice is 150.
 
 part2-question4: 
-    it will print an array [50,100,150] because this valid function will return half of the original prices array.
+    it will return an array [50,100,150] because this valid function will return half of the original prices array.
 
 part2-question5: 
     code will return error because i is only defined in the for loop, here it's outside i's scope
 
 part2-question6: 
-    print 150, because the very last time it was when i=2 with 300*0.5 = 150.
+    error, because discountedPrice is only defined in the for loop, here it's outside the scope
 
 part2-question7: 
     it will print 150, because the very last time it was when discountedPrice is 150.
